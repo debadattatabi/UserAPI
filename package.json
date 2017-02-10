@@ -9,12 +9,10 @@
   "dependencies": {
     "aws-sdk": "^2.6.3",
     "body-parser": "^1.15.1",
-    "bunyan": "^1.8.1",
     "compression": "^1.6.2",
     "crypto": "0.0.3",
     "csvtojson": "^1.0.0",
     "ejs": "^2.5.2",
-    "email-templates": "^2.5.3",
     "express": "^4.13.4",
     "express-device": "^0.4.2",
     "express-fileupload": "0.0.5",
@@ -34,7 +32,6 @@
     "synchronize": "^0.9.15",
     "thinky": "^2.3.2",
     "ua-parser-js": "^0.7.10",
-    "useragent": "^2.1.9",
-    "winston": "^2.2.0"
+    "useragent": "^2.1.9"
   }
 }
